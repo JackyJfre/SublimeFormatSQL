@@ -1,3 +1,9 @@
+This is a fork from [SublimeFormatSQL](https://github.com/freewizard/SublimeFormatSQL) that fixes a [known issue](https://github.com/freewizard/SublimeFormatSQL/issues/16) with Sublime Text 2. There will be no support for Sublime Text 3.
+
+Because this isn't an official package, you can [follow this instructions to install](https://sublime.wbond.net/docs/usage).
+
+From the original README:
+
 ## Summary
 
 FormatSQL formats long SQL statement to a more readable form by using [python-sqlparse library](http://code.google.com/p/python-sqlparse/).
